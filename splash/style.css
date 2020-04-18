@@ -42,6 +42,8 @@ img {
   font-size: 36px;
   line-height: 36px;
   color: #452b1c;
+  font-weight: normal;
+  font-style: italic;
 }
 .call-to-action {
   position: relative;
