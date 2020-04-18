@@ -36,7 +36,7 @@ img {
   justify-content: center;
   text-align: center;
 }
-.content em {
+.content h1 {
   max-width: 847px;
   margin: 0 auto 38px;
   font-size: 36px;
@@ -81,7 +81,7 @@ img {
   .logo {
     width: 50%;
   }
-  .content em {
+  .content h1 {
     font-size: 24px;
     line-height: 28px;
   }
